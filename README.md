@@ -1,6 +1,6 @@
 # Ask Picasso - Your Empathetic AI Companion
 
-![Ask Picasso](https://empathy-ai-xi.vercel.app/og-image.png) <!-- If there's an OG image; otherwise, remove or replace -->
+
 
 
 ## Description
@@ -29,7 +29,7 @@ This web application offers a simple, intuitive chat interface where users can i
 1. Clone the repository:
    ```bash
    git clone https://github.com/ntiyisopicasso/ask-picasso.git
-   cd empathy-ai-xi
+   cd ask-picasso
    ```
 
 2. Install dependencies:
